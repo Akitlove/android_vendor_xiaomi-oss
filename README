@@ -1,0 +1,8 @@
+
+mkdir ~/picasso
+
+unzip picasso-blobs.zip -d /home/akitlove/picasso/
+
+/home/akitlove/Evolution-X/device/xiaomi/picasso/picasso/
+
+./extract-files.py /home/akitlove/picasso/
