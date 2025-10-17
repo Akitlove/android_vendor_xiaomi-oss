@@ -1,8 +1,10 @@
-
+# Create a new directory
 mkdir ~/picasso
 
+# Download picasso-bobs.zip, Unzip picasso-bobs.zip
 unzip picasso-blobs.zip -d /home/akitlove/picasso/
 
-/home/akitlove/Evolution-X/device/xiaomi/picasso/picasso/
-
+# Enter the Android source code device tree directory
+# Evolution-X/device/xiaomi/picasso/picasso/
+# Execute command to generate blobs
 ./extract-files.py /home/akitlove/picasso/
